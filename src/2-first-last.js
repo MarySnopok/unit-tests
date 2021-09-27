@@ -9,5 +9,3 @@ export const firstLast = (items) => {
     return `No items!`;
   }
 };
-
-// npm run test -- -t 1-multiplication
