@@ -4,3 +4,8 @@ export const hashtags = (str) => {
 };
 
 // npm run test -- -t 1-multiplication
+
+// Haru version
+// export const hashtags = (text) => {
+//   return text.split(' ').filter(word =>  word.charAt(0) === '#' )
+// }
